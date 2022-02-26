@@ -93,7 +93,7 @@ matplotlib-inline==0.1.2
 mccabe==0.6.1
 missingno==0.4.2
 mistune==0.8.4
-mlflow==1.17.0
+mlflow==1.23.1
 mlxtend==0.18.0
 msgpack==1.0.2
 multimethod==1.4
