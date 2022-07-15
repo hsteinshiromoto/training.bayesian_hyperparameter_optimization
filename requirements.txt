@@ -36,7 +36,7 @@ datefinder==0.7.1
 decorator==4.4.2
 defusedxml==0.7.1
 dill==0.3.3
-distributed==2021.5.0
+distributed==2021.10.0
 docker==5.0.0
 docutils==0.15.2
 entrypoints==0.3
